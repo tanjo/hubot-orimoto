@@ -1,0 +1,16 @@
+{
+  "name": "hubot-orimoto",
+  "version": "1.0.0",
+  "description": "＼それある！／",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanjo/hubot-orimoto.git"
+  },
+  "keywords": [
+    "hubot",
+    "oregairu",
+    "orimoto"
+  ],
+  "author": "tanjo"
+}
