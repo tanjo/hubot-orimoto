@@ -1,0 +1,2 @@
+# hubot-orimoto
+それある!
